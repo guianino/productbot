@@ -1,7 +1,7 @@
 
 # Pesquisa de preço com Webscraping
 
-Objetivo deste projeto é fazer um robo que acessa o site de um marketplace especifico, procura pelos produtos definidos, comparar se o preço está menor que o estipulado e caso esteja retorna a URL desse produto.
+Objetivo deste projeto é fazer um robo que acessa o site de um marketplace especifico (nesse exemplo acessamos o americanas.com.br), procura pelos produtos definidos, comparar se o preço está menor que o estipulado e caso esteja retorna a URL desse produto.
 
 ## Stack utilizada
 
